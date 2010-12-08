@@ -1,0 +1,63 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1731CAF4-7722-4640-846B-B56C10A1846C/f:Program.cs" caret="0" fromTop="0" />
+      <File id="24792D42-A5B2-4D3A-9A03-0E9552E79D4D/f:Class1.cs" caret="370" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="24792D42-A5B2-4D3A-9A03-0E9552E79D4D/f:Class1.cs" caret="898" fromTop="14" />
+      <File id="24792D42-A5B2-4D3A-9A03-0E9552E79D4D/f:Class1.cs" caret="361" fromTop="13" />
+      <File id="24792D42-A5B2-4D3A-9A03-0E9552E79D4D/f:Class1.cs" caret="595" fromTop="26" />
+      <File id="24792D42-A5B2-4D3A-9A03-0E9552E79D4D/f:Class1.cs" caret="503" fromTop="21" />
+      <File id="24792D42-A5B2-4D3A-9A03-0E9552E79D4D/f:Class1.cs" caret="896" fromTop="39" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="event" priority="1" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="Action`0" priority="1" />
+      <Item value="string" priority="2" />
+      <Item value="public" priority="2" />
+      <Item value="void" priority="0" />
+      <Item value="class" priority="2" />
+      <Item value="Pos`0" priority="2" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="0" />
+      <Item value="pos" priority="1" />
+      <Item value="barcodeReader" priority="3" />
+      <Item value="Substitute" priority="0" />
+      <Item value="IBarcodeReader`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PointOfSaleTests.Pos">
+      <Item value="OnBarcode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PointOfSaleTests.IBarcodeReader">
+      <Item value="OnBarcode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NSubstitute.Substitute">
+      <Item value="For`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NSubstitute.Raise">
+      <Item value="Action`2" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,5 @@
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleApp\bin\Debug\PointOfSaleApp.exe
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleApp\bin\Debug\PointOfSaleApp.pdb
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleApp\obj\x86\Debug\PointOfSaleApp.exe
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleApp\obj\x86\Debug\PointOfSaleApp.pdb

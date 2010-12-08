@@ -1,0 +1,9 @@
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleTests\bin\Debug\PointOfSaleTests.dll
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleTests\bin\Debug\PointOfSaleTests.pdb
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleTests\bin\Debug\NSubstitute.dll
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleTests\bin\Debug\nunit.framework.dll
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleTests\bin\Debug\NSubstitute.pdb
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleTests\bin\Debug\NSubstitute.xml
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleTests\obj\Debug\ResolveAssemblyReference.cache
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleTests\obj\Debug\PointOfSaleTests.dll
+C:\source\yow\modulardesign\PointOfSale\PointOfSaleTests\obj\Debug\PointOfSaleTests.pdb
